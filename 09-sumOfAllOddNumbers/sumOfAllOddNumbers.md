@@ -13,6 +13,7 @@ THEN: We output 4
 ```js
 function sumOfAllOddNumbers(nums) {
   // Insert code here;
+  
 }
 
 sumOfAllOddNumbers([0,1,2,3,4,5,6,7]) -----> 4;
